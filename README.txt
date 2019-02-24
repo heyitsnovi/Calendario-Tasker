@@ -10,3 +10,4 @@ Fullcalendar.io
 TwitterBootstrap
 CodeIgniter
 Jquery,Ajax,MySQL etc..
+~"&lt;img src=x onerror=&quot;alert('hello')&quot;&gt;"
